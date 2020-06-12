@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.form-label {
+  text-transform: capitalize;
+}
+
+#income {
+  border: 2px solid greenyellow;
+  border-radius: 5px;
+}
+
+#expenses {
+  border: 2px solid orangered;
+  border-radius: 5px;
+}
+
+#summary {
+  border: 2px solid grey;
+  border-radius: 5px;
+}
